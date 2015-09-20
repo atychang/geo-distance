@@ -1,5 +1,5 @@
 /*
- * Calculate the distance of two points (from, to) in meter, using latitude and longitude, using Vincenty's formulae(inverse solution).
+ * Calculate the distance of two points (from, to) in meter, using latitude and longitude, using Vincenty's formula(inverse solution).
  * Reference:
  * 1. http://www.movable-type.co.uk/scripts/latlong-vincenty.html
  * 2. http://en.wikipedia.org/wiki/Vincenty's_formulae
