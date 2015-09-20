@@ -9,7 +9,7 @@ function toRadians(degree) {
 }
 
 function getDistance(lat1, lon1, lat2, lon2) {
-    var r = 6378137.0;	// meter
+    var r = 6378137.0;	// earth radius in meter
 
     lat1 = toRadians(lat1);
     lon1 = toRadians(lon1);
